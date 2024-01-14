@@ -101,7 +101,7 @@ int main()
 	const char* string1 = "Hello World";
 	const char* string2 = "iyasfipouawfg";
 	const char* string3 = "1234567879";
-	const char* string4 = "Hot nigga";
+	const char* string4 = "Hot";
 	const char* string5 = "yoyoyoyo";
 	const char* string6 = "Hello";
 	const char* string7 = "Hot";
